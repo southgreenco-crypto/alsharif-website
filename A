@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hossein Al Sharif | Strategy & Business Development</title>
+
+<meta name="description" content="Hossein Al Sharif - Strategy Consultant, Procurement Officer, Business Development, AI & Investment Projects">
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+HOSSEIN AL SHARIF
+</div>
+
+<ul class="menu">
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#projects">Projects</a></li>
+
+<li><a href="#services">Services</a></li>
+
+<li><a href="#resume">Resume</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+<div class="language">
+
+<select id="language">
+
+<option value="en">🇬🇧 English</option>
+
+<option value="ar">🇸🇦 العربية</option>
+
+<option value="fa">🇮🇷 فارسی</option>
+
+<option value="jp">🇯🇵 日本語</option>
+
+<option value="kr">🇰🇷 한국어</option>
+
+<option value="de">🇩🇪 Deutsch</option>
+
+</select>
+
+</div>
+
+</nav>
+
+</header>
+
+<section id="home" class="hero">
+
+<div class="hero-content">
+
+<h1>
+Strategy.
+Innovation.
+Investment.
+</h1>
+
+<p>
+
+Helping Companies Build
+International Business Opportunities.
+
+</p>
+
+<a href="#projects" class="btn">
+
+View Projects
+
+</a>
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<p>
+
+Business Development Consultant
+
+Procurement Officer
+
+Investment Proposal Developer
+
+AI Strategy
+
+International Cooperation
+
+</p>
+
+</section>
+
+<section id="projects">
+
+<h2>Projects</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>FanSphere AI</h3>
+
+<p>
+
+AI Platform for FIFA World Cup Fan Engagement.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Wizito</h3>
+
+<p>
+
+Digital Sales & Distribution Platform.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Al Besht</h3>
+
+<p>
+
+Luxury AI Marketplace for GCC.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="services">
+
+<h2>Services</h2>
+
+<ul>
+
+<li>Business Strategy</li>
+
+<li>Investment Proposal</li>
+
+<li>Procurement Consulting</li>
+
+<li>Market Entry GCC</li>
+
+<li>Artificial Intelligence</li>
+
+</ul>
+
+</section>
+
+<section id="resume">
+
+<h2>Resume</h2>
+
+<a href="assets/cv/Hossein_AlSharif_CV.pdf" class="btn">
+
+Download Resume
+
+</a>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email</p>
+
+<p>LinkedIn</p>
+
+<p>Instagram</p>
+
+<p>GitHub</p>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026
+
+Hossein Al Sharif
+
+All Rights Reserved.
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
